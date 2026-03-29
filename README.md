@@ -188,4 +188,4 @@ Every run saves a full audit log:
 
 **Chathura Dandeniya**
 Deakin University Graduate | DevOps & Cloud Infrastructure
-[LinkedIn](https://www.linkedin.com/in/chathura-dandeniya) · [GitHub](https://github.com/chathura-dandeniya)
+[LinkedIn](https://www.linkedin.com/in/chathura-dandeniya-7913b022b/) · [GitHub](https://github.com/chathura-dandeniya)
